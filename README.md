@@ -1,6 +1,6 @@
 # PAT乙级
-
-很少看见有 Python 的解法，目前正好在学习 Python ，顺便当作练习，有空一直会更新哒~  
+## [题目列表](https://www.patest.cn/contests/pat-b-practise)
+很少看见有 Python 的解法，目前正好在学习 Python ，顺便当作练习，有空一直会更新哒~  
 
 | ID   | Title               | Python | 备注   |
 | ---- | ------------------- | ------ | ---- |
