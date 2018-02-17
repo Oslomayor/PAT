@@ -1,6 +1,10 @@
 # PAT乙级
 ## [题目列表](https://www.patest.cn/contests/pat-b-practise)
 
+
+### 11:39PM, Feb 17th, 2018
+- 对于PAT, C++ 是最合适的语言
+- 实在没事干了, 再用 Python 来做吧
 ### 10:07PM, Jan 26th, 2018
 添加了C++、java、C 栏目
 
